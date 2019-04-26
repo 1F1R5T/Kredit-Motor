@@ -7,6 +7,13 @@ Memiliki feature website
 Pembelian Kredit Motor menggunakan Credit dan Cash
 <br>
 
+<br>
+Server : Xampp Version 7.3.4 
+<br>
+Database : Mysql
+<br>
+PHP Version : 7.3.4
+
 </b>Demo</b>
 <br>
 </b>User</b>
